@@ -1,0 +1,24 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>vespucci_burgershot_milo_.ymap</Item>
+    <Item>basev\hei_vb_03.ymap</Item>
+    <Item>basev\hei_vb_03_strm_0.ymap</Item>
+    <Item>basev\vb_03_strm_0.ymap</Item>
+    <Item>basev\vb_occl_01.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>bs_burgershot.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>basev\hi@vb_03_0.ybn</Item>
+    <Item>basev\vb_03_0.ybn</Item>
+    <Item>collisions\bs_burgershot.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
