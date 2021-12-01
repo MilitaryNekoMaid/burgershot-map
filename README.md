@@ -1,8 +1,9 @@
 # burgershot_map
 This is Smallo's Free map but with some adjustments from myself.
 
-# Updated #
-30/11/2021 - lilphantom25 Made some adjustments to the Kitchen
+## Updated ##
+30/11/2021 - [lilphantom25](https://github.com/lilphantom25)
+Made some adjustments to the Kitchen
 
 ## Suggestions  ##
 qb-burgershotjob allows your employees to be able to cook the food, pour the drinks and charge customers giving them actual jobs to do inside of burgershot.
