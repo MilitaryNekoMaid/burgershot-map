@@ -1,14 +1,26 @@
 # burgershot_map
-I have grabbed Smallo's Map and just redecorated it a little, added a bit of life to the Kitchen area and uncluttered the toilets.
+This is Smallo's Free map but with some adjustments from myself.
 
-# Installation
-Copy file into your server resources folder
-Add `ensure burgershot` to your server.cfg
+# Updated #
+30/11/2021 - lilphantom25 Made some adjustments to the Kitchen
 
-# Suggestions
-Burgershot will work with https://github.com/Zach488/qb-burgershot, may need afew locations changed
-above resource add's ways to cook each meal and make each drink.
+## Suggestions  ##
+qb-burgershotjob allows your employees to be able to cook the food, pour the drinks and charge customers giving them actual jobs to do inside of burgershot.
+[qb-burgershotjob](https://github.com/lilphantom25/qb-burgershotjob)
 
-# Credit #
-Smallo
-https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem
+## Credit ##
+Credit all goes to Smallo, I just made some minor changes
+
+Original Creator [Smallo](https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem)
+
+
+## Key Features ##
+ - Working Burgershot near Vespucci PD
+ - Guest Toilets
+ - Kitchen that looks busy and functional
+ - Trays by the tills
+
+## To Setup ##
+FiveM
+ - Place in resources folder
+ - ensure burgershot_map in server.cfg
